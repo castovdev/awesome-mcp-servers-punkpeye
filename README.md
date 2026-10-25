@@ -5092,3 +5092,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [castovdev/castov](https://github.com/castovdev/castov) [![castovdev/castov MCP server](https://glama.ai/mcp/servers/castovdev/castov/badges/score.svg)](https://glama.ai/mcp/servers/castovdev/castov) 📇 🏠 🍎 🪟 🐧 - Fast, privacy-first developer execution layer & offline toolkit: deterministic tools for EADDRINUSE port killing, IPv4 CIDR subnet calculation, cron schedules, cryptographic secret generation, local secret leak scanning, and JWT inspection.
